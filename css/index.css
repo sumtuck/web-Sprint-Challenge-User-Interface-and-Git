@@ -90,7 +90,7 @@ header img {
 
 
 .about{
-    border-bottom: 2px dashed black;
+    border-bottom: 1px dashed black;
 }
 
 div {
@@ -99,7 +99,7 @@ div {
    
 }
 
-.boxes {
+.about-boxes {
     display: flex;
     flex-wrap: wrap;
     justify-content:space-around;
@@ -109,12 +109,12 @@ div {
   
 }
 
-.boxes div {
-    border-bottom: 2px dashed black;
+.about-boxes div {
+    border-bottom: 1px dashed black;
 
 }
 
-.boxes button {
+.about-boxes button {
     border: 2px solid black;
     border-radius: 25px;
     width: 125px;
@@ -122,14 +122,14 @@ div {
     margin: 10px;
 }
 
-.boxes img {
+.about-boxes img {
         margin: 5px;
         width: 300px;
         margin-bottom: 10px;
       
     }
   
-.boxes p {
+.about-boxes p {
       
         text-align:left;
         width: 300px;
@@ -137,14 +137,9 @@ div {
         margin-bottom: 10px;
     }
 
-.boxes h2 {
+.about-boxes h2 {
         width: 300px
-    }
-
-  
-
-
-
+}
 
 
 .flex {
