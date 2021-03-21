@@ -1,3 +1,38 @@
+Answers to the Sprint Challenge 5 questions are below:
+
+1) If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Semantic elements clearly define what its contents.
+For example, a div element is an empty tag and tells us nothing about its contents. 
+
+A nav element, on the other hand, clearly indicates there is navigation.
+
+2) Name two big differences between display: block; and display: inline;.
+
+Display:inline; results in the content being displayed in the same line as the content around it. 
+
+Display:block; will return outside of the content> For example, above, below, or next to the cotent. Instead of directly in-line with it.
+
+3) What are the 4 areas of the box model?
+
+Content, padding, border, margin.
+
+4) While using flexbox, what axis does the following property work on: align-items: center?
+
+The cross axis, which is perpendicular to the main axis.
+
+5) Explain why git is valuable to a team of developers.
+
+It helps with version control and allows people from varying locations to work on the same code simultaneously. 
+
+
+
+
+
+
+
+
+
 # Sprint Challenge: User Interface and Git - Multi-Page Website
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
