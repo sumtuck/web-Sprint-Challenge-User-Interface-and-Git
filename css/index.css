@@ -88,6 +88,73 @@ header img {
  
 }
 
+
+.about{
+    border-bottom: 2px dashed black;
+}
+
+div {
+    
+    padding: 10px;
+   
+}
+
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    align-items: center;
+    padding: 10px;
+    
+  
+}
+
+.boxes div {
+    border-bottom: 2px dashed black;
+
+}
+
+.boxes button {
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 125px;
+    height: 40px;
+    margin: 10px;
+}
+
+.boxes img {
+        margin: 5px;
+        width: 300px;
+        margin-bottom: 10px;
+      
+    }
+  
+.boxes p {
+      
+        text-align:left;
+        width: 300px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+.boxes h2 {
+        width: 300px
+    }
+
+  
+
+
+
+
+
+.flex {
+    margin: 0;
+    display: flex;
+    border: 5px solid #333;
+    margin-bottom: 2rem;
+  }
+
+
 .box:nth-child(1) {
     background-color: teal;
 }
