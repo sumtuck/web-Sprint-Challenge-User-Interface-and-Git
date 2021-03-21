@@ -3,9 +3,9 @@ Answers to the Sprint Challenge 5 questions are below:
 1) If you were to describe semantic HTML to the next cohort of students, what would you say?
 
 Semantic elements clearly define what its contents.
-For example, a <div> element is an empty tag and tells us nothing about its contents. 
+For example, a div element is an empty tag and tells us nothing about its contents. 
 
-A <nav> element, on the other hand, clearly indicates there is navigation.
+A nav element, on the other hand, clearly indicates there is navigation.
 
 2) Name two big differences between display: block; and display: inline;.
 
